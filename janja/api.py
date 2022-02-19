@@ -9,7 +9,7 @@ url = "{}/v0/messages/text".format(base_url)
 
 payload = json.dumps({
   "to_phonenumber": "256782119329",
-  "sender_id": "256779096531",
+  "sender_id": "256782119329",
   "message": "Test Message 2"
 })
 
