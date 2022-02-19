@@ -6,3 +6,9 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+../janja/settings.py
+../janja/__pycache__
+../janja/asgi.py
+../janja/wsgi.py
+../api/__pycache__
+../migrations/
