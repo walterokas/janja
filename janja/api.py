@@ -1,10 +1,7 @@
 import requests, json
 
-username = "cebsadmin"
-password = "Yu@42200211xrdt"
-
-username = '125639200248527'
-password = 'itl0hpo8'
+username = '1234567890'
+password = 'xxxxxxxx'
 
 base_url = "https://api.janja.me"
 url = "{}/v0/messages/text".format(base_url)
